@@ -23,3 +23,5 @@ Linux同iOS设备通过usb通讯
 https://github.com/libimobiledevice/usbmuxd
 
 https://github.com/libimobiledevice
+
+https://reetyo.github.io/2019/04/09/2019-04-09/
